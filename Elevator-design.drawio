@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-04T16:06:10.473Z" agent="5.0 (Linux; Android 10; motorola one power) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36" etag="N-UUMQwQZw7WBKP0l57W" version="13.5.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-08-04T16:26:49.519Z" agent="5.0 (Linux; Android 10; motorola one power) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36" etag="WEy9k17S-WfWy6iVog0H" version="13.5.9" type="github" pages="5">
   <diagram id="3e9T9hURMDE8jhIzxKxa" name="Design 1">
-    <mxGraphModel dx="1304" dy="2404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="931" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,11 +93,60 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Ux_CS98X_Jp8MXNAPYhG" name="Page-4">
-    <mxGraphModel dx="326" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="Ux_CS98X_Jp8MXNAPYhG" name="Design 4">
+    <mxGraphModel dx="815" dy="1503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ypuem6WDAKoWJHsg6uGO-0" />
         <mxCell id="ypuem6WDAKoWJHsg6uGO-1" parent="ypuem6WDAKoWJHsg6uGO-0" />
+        <mxCell id="WKXQWg_NNvGrkdtztDvf-0" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="ypuem6WDAKoWJHsg6uGO-1">
+          <mxGeometry x="110" y="350" width="200" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="xIk3D_uqa10fMSggPCU4-0" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="ypuem6WDAKoWJHsg6uGO-1">
+          <mxGeometry x="590" y="300" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="xIk3D_uqa10fMSggPCU4-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ypuem6WDAKoWJHsg6uGO-1">
+          <mxGeometry x="600" y="340" width="180" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="ObYeqmaEcxuxyMjiJs0d-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ypuem6WDAKoWJHsg6uGO-1" source="xIk3D_uqa10fMSggPCU4-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIk3D_uqa10fMSggPCU4-4" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.number_pad;strokeWidth=1;" vertex="1" parent="ypuem6WDAKoWJHsg6uGO-1">
+          <mxGeometry x="620" y="470" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ObYeqmaEcxuxyMjiJs0d-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ypuem6WDAKoWJHsg6uGO-1" source="xIk3D_uqa10fMSggPCU4-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIk3D_uqa10fMSggPCU4-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ypuem6WDAKoWJHsg6uGO-1">
+          <mxGeometry x="630" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ObYeqmaEcxuxyMjiJs0d-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ypuem6WDAKoWJHsg6uGO-1" source="ObYeqmaEcxuxyMjiJs0d-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ObYeqmaEcxuxyMjiJs0d-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ypuem6WDAKoWJHsg6uGO-1">
+          <mxGeometry x="150" y="440" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ObYeqmaEcxuxyMjiJs0d-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ypuem6WDAKoWJHsg6uGO-1" source="ObYeqmaEcxuxyMjiJs0d-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ObYeqmaEcxuxyMjiJs0d-2" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.bluetooth;pointerEvents=1" vertex="1" parent="ypuem6WDAKoWJHsg6uGO-1">
+          <mxGeometry x="400" y="445.6" width="80" height="118.8" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_2zsrFGP78M2mjysvQLr" name="Page-5">
+    <mxGraphModel dx="326" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="OGuIbnsi7jJPOK3dBLyz-0" />
+        <mxCell id="OGuIbnsi7jJPOK3dBLyz-1" parent="OGuIbnsi7jJPOK3dBLyz-0" />
       </root>
     </mxGraphModel>
   </diagram>
